@@ -2,7 +2,6 @@ import streamlit as st
 import pandas as pd
 import plotly.express as px
 
-from grafikler import fig_cubuk, fig_cizgi
 
 st.set_page_config(page_title="Verimlilik Paneli",layout="wide")
 
